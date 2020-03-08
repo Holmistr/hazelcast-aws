@@ -24,7 +24,7 @@
     <url>http://www.hazelcast.com/</url>
 
     <properties>
-        <!-- needed for checkstyle/findbugs -->
+        <!-- needed forfdadfaf checkstyle/findbugs -->
         <main.basedir>${project.basedir}</main.basedir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
